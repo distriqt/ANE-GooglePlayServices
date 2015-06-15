@@ -1,5 +1,12 @@
 
 
+###### 2015.06.15
+
+Removed debug code from AS lib
+iOS: Updated to latest common lib
+Android: Windows: Fix for bug in AIR packager resulting in missing resources
+
+
 ###### 2015.04.27
 
 Android: Updated to version 7095000

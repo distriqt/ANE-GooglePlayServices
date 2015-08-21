@@ -9,18 +9,11 @@ A shared library ANE that includes the Google Play Services Library.
 This is to be used in combination with distriqts extensions.
 
 
-## Documentation
 
-```actionscript
-```
+## 
 
-
-## License
-
-You can purchase a license for using distriqt extensions:
+See all the available extensions here:
 
 http://airnativeextensions.com
-
-distriqt retains all copyright.
 
 

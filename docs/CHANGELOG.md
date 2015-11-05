@@ -1,5 +1,10 @@
 
 
+###### 2015.11.05
+
+Updated to latest SDK
+
+
 ###### 2015.06.15
 
 Removed debug code from AS lib

@@ -1,5 +1,10 @@
 
 
+###### 2016.03.02
+
+Updated to version 8487000
+
+
 ###### 2015.11.18
 
 Update to latest Google Services lib

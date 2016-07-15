@@ -1,5 +1,10 @@
 
 
+######  2016.07.16
+
+Updated to be compatible with latest Core ANE
+
+
 ###### 2016.03.02
 
 Updated to v8487000

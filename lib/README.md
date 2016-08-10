@@ -24,6 +24,7 @@ Google Analytics services:
 Google Authentication services:
 - [com.distriqt.GoogleIdentity](http://airnativeextensions.com/extension/com.distriqt.GoogleIdentity)
 - [com.distriqt.GooglePlus](http://airnativeextensions.com/extension/com.distriqt.GooglePlus)
+- [com.distriqt.GameServices](http://airnativeextensions.com/extension/com.distriqt.GameServices)
 
 
 ## Base

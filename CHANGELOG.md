@@ -1,5 +1,15 @@
 
 
+###### 2016.08.10 [v9.4.0]
+
+Updated to Google Play Services v9.4.0
+
+
+###### 2016.08.10 [v..]
+
+Updated to Google Play Services v9.4.0
+
+
 ###### v9.2.1 2016.07.26
 
 Updated to v9.2.1

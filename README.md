@@ -1,6 +1,9 @@
 
 built by [distriqt //](http://airnativeextensions.com) 
 
+![](images/promo.png)
+
+
 # Google Play Services 
 
 A shared library ANE that includes the Google Play Services Client Library.
@@ -14,7 +17,6 @@ authorization from users to gain access to these services with their credentials
 It also contains APIs that allow you to resolve any issues at runtime, such as a missing, disabled, 
 or out-of-date Google Play services APK. 
 
-![alt tag](images/play-services-diagram.png)
 
 
 ### Play Services ANEs

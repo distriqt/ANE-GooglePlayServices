@@ -1,5 +1,10 @@
 
 
+###### 2017.06.10 [v11.0.0]
+
+Updated to Google Play Services v11.0.0
+
+
 ###### 2017.05.30 [v10.2.6]
 
 Updated to Google Play Services v10.2.6

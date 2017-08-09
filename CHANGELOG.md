@@ -1,5 +1,10 @@
 
 
+###### 2017.08.09 [v11.0.4]
+
+Added GoogleApiAvailability functionality
+
+
 ###### 2017.08.04 [v11.0.4]
 
 Updated to Google Play Services v11.0.4

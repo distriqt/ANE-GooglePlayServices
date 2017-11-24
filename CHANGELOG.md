@@ -1,5 +1,10 @@
 
 
+###### 2017.11.24 [v11.0.4]
+
+Added AppInvite client library extension
+
+
 ###### 2017.08.09 [v11.0.4]
 
 Added GoogleApiAvailability functionality

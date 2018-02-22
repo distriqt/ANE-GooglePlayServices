@@ -1,5 +1,10 @@
 
 
+###### 2018.02.22 [v11.8.0]
+
+Updated to Google Play Services v11.8.0
+
+
 ###### 2017.11.24 [v11.0.4]
 
 Added AppInvite client library extension

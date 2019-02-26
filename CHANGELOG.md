@@ -7,6 +7,13 @@ Updated minimum iOS version to 8.0
 ```
 
 
+###### 2019.02.26 [v16.0.5]
+
+```
+Updated minimum iOS version to 8.0
+```
+
+
 ###### 2018.12.12 [v16.0.5]
 
 ```

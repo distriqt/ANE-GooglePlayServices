@@ -1,5 +1,13 @@
 
 
+###### 2019.03.02 [v16.0.5]
+
+```
+Removed unused iOS implementations
+Added version information (resolves distriqt/ANE-Firebase#190)
+```
+
+
 ###### 2019.02.26 [v16.0.5]
 
 ```

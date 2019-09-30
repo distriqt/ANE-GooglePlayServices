@@ -1,5 +1,12 @@
 
 
+###### 2019.09.30 [v16.0.5]
+
+```
+Fixed issue with ApiAvailablity checks
+```
+
+
 ###### 2019.08.12 [v16.0.5]
 
 ```

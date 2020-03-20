@@ -1,9 +1,29 @@
 
-## Google Play Services ANEs
 
-The following summarises the functionality in each of the ANEs. 
-Most are directly related to one ANE however several are shared amongst multiple extensions 
-and will be in used in more the future.
+# Firebase Core
+
+The `com.google.firebase.core` extension contains the core Firebase components that are required by all Firebase related extensions. 
+
+We have separated this library and made it a common dependency as there are several extensions that rely on these libraries and require a common location in order to avoid conflicts. 
+
+Any extension that uses Firebase will require this extension, in particular:
+
+- [com.distriqt.Firebase collection](http://airnativeextensions.com/extension/com.distriqt.Firebase)
+- [com.distriqt.PushNotifications](http://airnativeextensions.com/extension/com.distriqt.PushNotifications)
+
+
+
+
+# Google Play Services 
+
+
+
+The following summarises the functionality in each of the extensions. This is not an exhaustive list but just an indication of where these extensions are used.
+
+Most are directly related to one extension however several are shared amongst multiple extensions and may be in used in more the future. 
+
+You should follow the documentation in the individual extensions to see which depenencies are required.
+
 
 
 ## Ads
@@ -81,6 +101,5 @@ Google Plus services:
 
 Google Tag Manager services:
 - [com.distriqt.GoogleTagManager](http://airnativeextensions.com/extension/com.distriqt.GoogleTagManager)
-
 
 

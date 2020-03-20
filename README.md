@@ -6,16 +6,16 @@ built by [distriqt //](https://airnativeextensions.com)
 
 # Google Play Services 
 
-A shared library ANE that includes the Google Play Services Client Library.
-This is to be used in combination with the distriqt native extensions.
+This repository contains a series of shared extensions that includes the Google Play Services Client Library and the Firebase Core library.
+
+These are designed to be used in combination with the distriqt native extensions, however can be used as a dependency by any extension.
 
 
 ## The Google Play services client library
 
-The client library contains the interfaces to the individual Google services and allows you to obtain 
-authorization from users to gain access to these services with their credentials. 
-It also contains APIs that allow you to resolve any issues at runtime, such as a missing, disabled, 
-or out-of-date Google Play services APK. 
+The client library contains the interfaces to the individual Google services and allows you to obtain authorization from users to gain access to these services with their credentials. 
+
+It also contains APIs that allow you to resolve any issues at runtime, such as a missing, disabled, or out-of-date Google Play services APK. 
 
 
 

@@ -1,5 +1,12 @@
 
 
+###### 2020.05.04 [v20.1.1]
+
+```
+Updated to latest Google Play Services
+```
+
+
 ###### 2020.03.20 [v20.1.0]
 
 ```

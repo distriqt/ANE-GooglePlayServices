@@ -1,12 +1,12 @@
 
 | Extension | Version |
 | --- | --- |
-| com.google.firebase.core | 17.2.3 |
-| com.distriqt.playservices.Ads | 18.3.0 |
+| com.google.firebase.core | 17.4.0 |
+| com.distriqt.playservices.Ads | 19.1.0 |
 | com.distriqt.playservices.Analytics | 17.0.0 |
 | com.distriqt.playservices.AppInvite | 18.0.0 |
-| com.distriqt.playservices.Auth | 17.0.0 |
-| com.distriqt.playservices.Base | 17.1.0 |
+| com.distriqt.playservices.Auth | 18.0.0 |
+| com.distriqt.playservices.Base | 17.2.1 |
 | com.distriqt.playservices.Drive | 17.0.0 |
 | com.distriqt.playservices.Games | 19.0.0 |
 | com.distriqt.playservices.GCM | 17.0.0 |

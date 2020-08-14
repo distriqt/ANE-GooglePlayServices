@@ -1,5 +1,14 @@
 
 
+###### 2020.08.14 [v20.2.1]
+
+```
+Added Licensing to provide access to Google Play Licensing  
+Separated AdsIdentifier to avoid Ads SDK warning from Google
+Added SWCs
+```
+
+
 ###### 2020.05.25 [v20.2.0]
 
 ```

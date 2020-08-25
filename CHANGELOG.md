@@ -1,5 +1,12 @@
 
 
+###### 2020.08.25 [v20.3.0]
+
+```
+Added the Play Core library com.google.android.play
+```
+
+
 ###### 2020.08.14 [v20.2.1]
 
 ```

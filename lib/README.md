@@ -12,6 +12,18 @@ Any extension that uses Firebase will require this extension, in particular:
 - [com.distriqt.PushNotifications](http://airnativeextensions.com/extension/com.distriqt.PushNotifications)
 
 
+# Play Core
+
+The `com.google.android.core` extension contains the Google Play Core library which contains libraries to interface with the Google Play Store. Some of the things you can do with Play Core include the following:
+
+- Download additional language resources 
+- Manage delivery of feature modules
+- Manage delivery of asset packs
+- Trigger in-app updates
+- Request in-app reviews ()
+    - [com.distriqt.ApplicationRater](http://airnativeextensions.com/extension/com.distriqt.ApplicationRater)
+
+
 
 
 # Google Play Services 
@@ -51,6 +63,12 @@ Google Authentication services:
 ## Base
 
 Base services required by all ANEs using the Google Play Services client library.
+
+This extension provides the Availability API to determine if the Google Play Services are installed on a device:
+
+- [Google API Availability Helper](https://github.com/distriqt/ANE-GooglePlayServices/wiki/API-Availability)
+
+
 
 
 ## Drive
@@ -102,4 +120,16 @@ Google Plus services:
 Google Tag Manager services:
 - [com.distriqt.GoogleTagManager](http://airnativeextensions.com/extension/com.distriqt.GoogleTagManager)
 
+
+## Licensing 
+
+Google Play Licensing library provides ability to query a trusted Google Play licensing server to determine whether the application is licensed to the current device user.
+
+It is used by the following extensions:
+
+- [com.distriqt.ExpansionFiles](http://airnativeextensions.com/extension/com.distriqt.ExpansionFiles)
+
+It provides licensing functionality:
+
+- [Licensing](https://github.com/distriqt/ANE-GooglePlayServices/wiki/Licensing)
 

@@ -1,5 +1,12 @@
 
 
+###### 2020.09.01 [v20.4.0]
+
+```
+Updated to latest Google Play Services and Firebase SDKs
+```
+
+
 ###### 2020.08.25 [v20.3.0]
 
 ```

@@ -1,0 +1,55 @@
+<extension xmlns="http://ns.adobe.com/air/extension/24.0">
+	<id>com.google.firebase.core</id>
+	<versionNumber>17.4.0</versionNumber>
+	<platforms>
+
+		<platform name="Android-ARM">
+			<applicationDeployment>
+				<nativeLibrary>distriqt.extension.firebase.core.android.jar</nativeLibrary>
+				<initializer>com.distriqt.extension.firebase.core.coreExtension</initializer>
+				<finalizer>com.distriqt.extension.firebase.core.coreExtension</finalizer>
+			</applicationDeployment>
+		</platform>
+		<platform name="Android-ARM64">
+			<applicationDeployment>
+				<nativeLibrary>distriqt.extension.firebase.core.android.jar</nativeLibrary>
+				<initializer>com.distriqt.extension.firebase.core.coreExtension</initializer>
+				<finalizer>com.distriqt.extension.firebase.core.coreExtension</finalizer>
+			</applicationDeployment>
+		</platform>
+		<platform name="Android-x86">
+			<applicationDeployment>
+				<nativeLibrary>distriqt.extension.firebase.core.android.jar</nativeLibrary>
+				<initializer>com.distriqt.extension.firebase.core.coreExtension</initializer>
+				<finalizer>com.distriqt.extension.firebase.core.coreExtension</finalizer>
+			</applicationDeployment>
+		</platform>
+		<platform name="Android-x64">
+			<applicationDeployment>
+				<nativeLibrary>distriqt.extension.firebase.core.android.jar</nativeLibrary>
+				<initializer>com.distriqt.extension.firebase.core.coreExtension</initializer>
+				<finalizer>com.distriqt.extension.firebase.core.coreExtension</finalizer>
+			</applicationDeployment>
+		</platform>
+
+		<platform name="iPhone-ARM">
+			<applicationDeployment>
+				<nativeLibrary>libfirebasecore.a</nativeLibrary>
+				<initializer>firebasecoreExtInitializer</initializer>
+				<finalizer>firebasecoreExtFinalizer</finalizer>
+			</applicationDeployment>
+		</platform>
+		<platform name="iPhone-x86">
+			<applicationDeployment>
+				<nativeLibrary>libfirebasecore.a</nativeLibrary>
+				<initializer>firebasecoreExtInitializer</initializer>
+				<finalizer>firebasecoreExtFinalizer</finalizer>
+			</applicationDeployment>
+		</platform>
+
+		<platform name="default"> 
+			<applicationDeployment /> 
+		</platform>
+		
+	</platforms>
+</extension>

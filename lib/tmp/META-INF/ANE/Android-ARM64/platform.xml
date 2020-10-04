@@ -1,0 +1,23 @@
+<platform xmlns="http://ns.adobe.com/air/extension/24.0">
+	<copyright>2019 // distriqt</copyright>
+	<packagedDependencies>
+<packagedDependency>auto-value-annotations-1.6.6.jar</packagedDependency>
+<packagedDependency>firebase-abt-19.1.0.jar</packagedDependency>
+<packagedDependency>firebase-analytics-17.5.0.jar</packagedDependency>
+<packagedDependency>firebase-common-19.3.1.jar</packagedDependency>
+<packagedDependency>firebase-components-16.0.0.jar</packagedDependency>
+<packagedDependency>firebase-core-17.5.0.jar</packagedDependency>
+<packagedDependency>firebase-encoders-json-16.1.0.jar</packagedDependency>
+<packagedDependency>firebase-iid-20.2.3.jar</packagedDependency>
+<packagedDependency>firebase-iid-interop-17.0.0.jar</packagedDependency>
+<packagedDependency>firebase-installations-16.3.3.jar</packagedDependency>
+<packagedDependency>firebase-installations-interop-16.0.0.jar</packagedDependency>
+<packagedDependency>firebase-measurement-connector-18.0.0.jar</packagedDependency>
+	</packagedDependencies>
+	<packagedResources>
+	     <packagedResource>
+		    <packageName>com.distriqt.extension.firebase.core</packageName> 
+		    <folderName>distriqt-extension-firebase-core-res</folderName> 
+		</packagedResource>
+	</packagedResources>
+</platform>

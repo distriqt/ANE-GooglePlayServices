@@ -1,0 +1,29 @@
+<platform xmlns="http://ns.adobe.com/air/extension/24.0">
+	<copyright>2019 // distriqt</copyright>
+	<sdkVersion>13.0</sdkVersion>
+	<linkerOptions>
+		<option>-ios_version_min 9.0</option>
+		<option>-w</option>
+		<option>-ObjC</option>
+		<option>-framework Foundation</option>
+		<option>-framework CoreTelephony</option>
+		<option>-framework SystemConfiguration</option>
+		<option>-framework UIKit</option>
+		<option>-framework Security</option>
+		<option>-framework CoreData</option>
+		<option>-framework StoreKit</option>
+		<option>-lz</option>
+		<option>-lsqlite3</option>
+	</linkerOptions>
+	<packagedDependencies>
+
+		<packagedDependency>FirebaseCore.framework</packagedDependency>
+		<packagedDependency>FirebaseCoreDiagnostics.framework</packagedDependency>
+		<packagedDependency>FirebaseInstallations.framework</packagedDependency>
+		<packagedDependency>GoogleAppMeasurement.framework</packagedDependency>
+		<packagedDependency>GoogleDataTransport.framework</packagedDependency>
+		<packagedDependency>GoogleUtilities.framework</packagedDependency>
+		<packagedDependency>nanopb.framework</packagedDependency>
+		<packagedDependency>PromisesObjC.framework</packagedDependency>
+	</packagedDependencies>
+</platform>

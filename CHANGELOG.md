@@ -1,5 +1,12 @@
 
 
+###### 2021.04.27 [v26.3.2]
+
+```
+Corrected build issue with Games dependency
+```
+
+
 ###### 2021.04.14 [v26.3.1]
 
 ```

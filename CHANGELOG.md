@@ -1,5 +1,16 @@
 
 
+###### 2021.05.11 [v26.4.0]
+
+```
+Updated to latest Google Play Services and Firebase SDKs
+ - Ads v20.0.0
+ 
+Corrected issue with Games dependency
+Added Provider Installer functionality (resolves #20)
+```
+
+
 ###### 2021.04.27 [v26.3.2]
 
 ```

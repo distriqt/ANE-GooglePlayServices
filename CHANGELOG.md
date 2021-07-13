@@ -1,5 +1,12 @@
 
 
+###### 2021.07.13 [v26.6.0]
+
+```
+Updated AdMob Ads SDK to v20.2.0, changed resource references in Base extension
+```
+
+
 ###### 2021.06.04 [v26.5.0]
 
 ```

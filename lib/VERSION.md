@@ -1,7 +1,8 @@
+## Version Details
 
 | Extension | Version | Android Lib | iOS Lib |
 | --- | --- | --- | --- |
-| com.google.android.play | 1.9.45 | 1.9.0 |  |
+| com.google.android.play | 1.10.1 | 1.10.1 |  |
 | com.google.firebase.core | 17.4.0 | 18.0.1 | 7.4.0 |
 | com.distriqt.playservices.Ads | 20.2.0 | 20.2.0 |  |
 | com.distriqt.playservices.AdsIdentifier | 17.0.0 | 17.0.0 |  |

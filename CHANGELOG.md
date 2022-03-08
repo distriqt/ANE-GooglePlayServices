@@ -1,3 +1,11 @@
+###### 2022.03.08 [v27.0.0]
+
+```
+Updates to latest GPS versions and for firebase bom 29.0.4
+Add recaptcha extension
+Removed excessive resources from extensions and cleaned up versioning
+```
+
 ###### 2021.09.09 [v26.7.1]
 
 ```

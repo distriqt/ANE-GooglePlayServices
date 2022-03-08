@@ -10,7 +10,7 @@
 | com.distriqt.playservices.AppInvite | 18.0.0 | 18.0.0 |  |
 | com.distriqt.playservices.Auth | 20.1.0 | 20.1.0 |  |
 | com.distriqt.playservices.Base | 18.0.1 | 18.0.1 |  |
-| com.distriqt.playservices.CloudMessaging | 16.0.0 | 16.0.0 |  |
+| com.distriqt.playservices.CloudMessaging | 17.0.2 | 17.0.2 |  |
 | com.distriqt.playservices.Drive | 17.0.0 | 17.0.0 |  |
 | com.distriqt.playservices.Games | 22.0.1 | 22.0.1 |  |
 | com.distriqt.playservices.GCM | 17.0.0 | 17.0.0 |  |

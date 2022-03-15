@@ -3,7 +3,7 @@
 | Extension | Version | Android Lib | iOS Lib |
 | --- | --- | --- | --- |
 | com.google.android.play | 1.10.1 | 1.10.1 |  |
-| com.google.firebase.core | 29.0.4 | 29.0.4 | 7.4.0 |
+| com.google.firebase.core | 29.0.401 | 29.0.4 | 7.4.0 |
 | com.distriqt.playservices.Ads | 20.5.0 | 20.5.0 |  |
 | com.distriqt.playservices.AdsIdentifier | 18.0.1 | 18.0.1 |  |
 | com.distriqt.playservices.Analytics | 18.0.1 | 18.0.1 |  |

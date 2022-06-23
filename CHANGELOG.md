@@ -1,3 +1,11 @@
+###### 2022.06.23 [v27.1.0]
+
+```
+feat(fir-adidsupport): add new firebase sdk dependency for adding ad id support to ios
+feat(fir-core): update ios firebase sdk to v8.15.0
+feat(appset): add new extension library and example for playservices appset library
+```
+
 ###### 2022.03.15 [v27.0.2]
 
 ```

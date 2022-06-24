@@ -1,3 +1,10 @@
+###### 2022.06.24 [v27.2.0]
+
+```
+feat(playservices-ads): update to v21.0.0
+feat(playservices-base): update some of the base libs for ads v21.0.0 support 
+```
+
 ###### 2022.06.23 [v27.1.0]
 
 ```

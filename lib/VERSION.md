@@ -5,7 +5,7 @@
 | com.google.android.play | 1.10.101 | 1.10.1 |  |
 | com.google.firebase.adidsupport | 29.0.402 | 29.0.4 | 8.15.0 |
 | com.google.firebase.core | 29.0.402 | 29.0.4 | 8.15.0 |
-| com.distriqt.playservices.Ads | 21.0.0 | 21.0.0 |  |
+| com.distriqt.playservices.Ads | 21.3.0 | 21.3.0 |  |
 | com.distriqt.playservices.AdsIdentifier | 18.0.101 | 18.0.1 |  |
 | com.distriqt.playservices.Analytics | 18.0.101 | 18.0.1 |  |
 | com.distriqt.playservices.AppInvite | 18.0.1 | 18.0.0 |  |

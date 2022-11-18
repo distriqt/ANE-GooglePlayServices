@@ -1,3 +1,9 @@
+###### 2022.11.18 [v27.3.0]
+
+```
+feat(playservices-ads): update ads library to v21.3.0
+```
+
 ###### 2022.06.24 [v27.2.0]
 
 ```

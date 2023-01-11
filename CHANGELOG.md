@@ -1,3 +1,10 @@
+###### 2023.01.11 [v27.3.1]
+
+```
+feat(android-play): update sdk to v1.10.3
+feat(fir-core): remove bitcode and add no-objc-msgsend-selector-stubs compiler flag 
+```
+
 ###### 2022.11.18 [v27.3.0]
 
 ```

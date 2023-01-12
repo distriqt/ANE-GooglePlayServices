@@ -9,7 +9,7 @@
 | com.distriqt.playservices.AdsIdentifier | 18.0.101 | 18.0.1 |  |
 | com.distriqt.playservices.Analytics | 18.0.101 | 18.0.1 |  |
 | com.distriqt.playservices.AppInvite | 18.0.1 | 18.0.0 |  |
-| com.distriqt.playservices.AppSet | 16.0.201 | 16.0.2 |  |
+| com.distriqt.playservices.AppSet | 16.1.201 | 16.0.2 |  |
 | com.distriqt.playservices.Auth | 20.1.1 | 20.1.0 |  |
 | com.distriqt.playservices.Base | 18.1.1 | 18.0.1 |  |
 | com.distriqt.playservices.CloudMessaging | 17.0.201 | 17.0.2 |  |

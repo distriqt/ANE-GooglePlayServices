@@ -1,3 +1,9 @@
+###### 2023.01.12 [v27.3.2]
+
+```
+feat(appset): update air package dependencies
+```
+
 ###### 2023.01.11 [v27.3.1]
 
 ```

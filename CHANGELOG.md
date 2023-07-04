@@ -1,3 +1,20 @@
+###### 2023.07.04 [v28.0.0]
+
+```
+Updates to latest GPS versions and firebase bom 32.1.1
+
+feat(firebase): update firebase, android bom v32.1.1, ios v10.11.0
+feat(fitness): add fitness sdk v21.1.0
+feat(ads): update ads sdk v22.1.0
+feat(analytics): update analytics sdk v18.0.3
+feat(auth): update auth sdk v20.5.0
+feat(base): update base sdk v18.2.0
+feat(games): update games sdk v23.1.0
+feat(location): update location sdk v21.0.1
+feat(maps): update maps sdk v18.1.0
+feat(tagmanager): update tagmanager sdk v18.0.3
+```
+
 ###### 2023.01.12 [v27.3.2]
 
 ```

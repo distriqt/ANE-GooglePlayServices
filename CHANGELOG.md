@@ -1,3 +1,9 @@
+###### 2023.07.13 [v28.0.1]
+
+```
+feat(airpackage): add platforms to extensions to allow apm to selectively deploy the extensions
+```
+
 ###### 2023.07.04 [v28.0.0]
 
 ```

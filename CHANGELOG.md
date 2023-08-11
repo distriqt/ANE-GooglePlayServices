@@ -1,3 +1,9 @@
+###### 2023.08.11 [v28.1.0]
+
+```
+feat(fir-messaging): add firebase messaging sdk v23.1.0 as separated dependency
+```
+
 ###### 2023.07.13 [v28.0.1]
 
 ```

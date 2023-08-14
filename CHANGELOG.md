@@ -1,3 +1,9 @@
+###### 2023.08.15 [v28.1.0]
+
+```
+fix(fir-messaging): critical fix for incorrectly packaged ios build 
+```
+
 ###### 2023.08.11 [v28.1.0]
 
 ```

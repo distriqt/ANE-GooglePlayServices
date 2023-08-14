@@ -5,7 +5,7 @@
 | com.google.android.play | 1.10.304 | 1.10.3 |  |
 | com.google.firebase.adidsupport | 32.1.101 | 32.1.1 | 10.11.0 |
 | com.google.firebase.core | 32.1.102 | 32.1.1 | 10.11.0 |
-| com.google.firebase.messaging | 23.1.200 | 23.1.2 | 0.0.0 |
+| com.google.firebase.messaging | 23.1.201 | 23.1.2 | 0.0.0 |
 | com.distriqt.playservices.Ads | 22.1.1 | 22.1.0 |  |
 | com.distriqt.playservices.AdsIdentifier | 18.0.103 | 18.0.1 |  |
 | com.distriqt.playservices.Analytics | 18.0.301 | 18.0.3 |  |

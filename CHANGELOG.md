@@ -1,3 +1,9 @@
+###### 2023.09.22 [v28.2.1]
+
+```
+fix(fir-core): correct swift flags used for ios packaging
+```
+
 ###### 2023.08.18 [v28.2.0]
 
 ```

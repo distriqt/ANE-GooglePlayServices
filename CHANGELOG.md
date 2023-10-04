@@ -1,3 +1,11 @@
+###### 2023.10.04 [v28.2.2]
+
+```
+feat(fir-core): update firebase datatransport and installations dependencies 
+feat(fir-messaging): update firebase inapp messaging to v20.3.5
+fix(fir-core): resolved duplicate definition (resolves #30)
+```
+
 ###### 2023.09.22 [v28.2.1]
 
 ```

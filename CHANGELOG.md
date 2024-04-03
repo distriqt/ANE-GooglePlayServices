@@ -1,3 +1,9 @@
+###### 2024.04.03 [v28.3.1]
+
+```
+feat(android-play): update to v2.0.3 of the Google Play Core library
+```
+
 ###### 2024.03.28 [v28.3.0]
 
 ```

@@ -2,7 +2,7 @@
 
 | Extension | Version | Android Lib | iOS Lib |
 | --- | --- | --- | --- |
-| com.google.android.play | 1.10.305 | 1.10.3 |  |
+| com.google.android.play | 2.0.301 | 2.0.3 |  |
 | com.google.firebase.adidsupport | 32.1.102 | 32.1.1 | 10.11.0 |
 | com.google.firebase.core | 32.1.106 | 32.1.1 | 10.11.0 |
 | com.google.firebase.messaging | 23.1.203 | 23.1.2 | 0.0.0 |

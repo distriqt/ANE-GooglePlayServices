@@ -1,3 +1,9 @@
+###### 2024.04.17 [v28.3.2]
+
+```
+feat(playservices-cronet): add new cronet dependency v18.0.1
+```
+
 ###### 2024.04.03 [v28.3.1]
 
 ```

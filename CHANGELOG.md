@@ -1,3 +1,14 @@
+###### 2024.05.16 [v29.0.0]
+
+```
+feat(fir-core): update firebase sdk: android bom v33.0.0 ios v10.25.0
+feat(fir-adidsupport): update firebase sdk: android bom v33.0.0 ios v10.25.0
+feat(fir-messaging): update firebase messaging sdk v24.0.0
+feat(playservices-auth): update auth to v21.1.1
+feat(playservices-base): update base to v18.4.0 (and compatible dependencies)
+feat(playservices-cloudmessaging): update cloudmessaging to v17.2.0
+```
+
 ###### 2024.04.17 [v28.3.2]
 
 ```

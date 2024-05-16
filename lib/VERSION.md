@@ -2,18 +2,18 @@
 
 | Extension | Version | Android Lib | iOS Lib |
 | --- | --- | --- | --- |
-| com.google.android.play | 2.0.302 | 2.0.3 |  |
-| com.google.firebase.adidsupport | 32.1.103 | 32.1.1 | 10.11.0 |
-| com.google.firebase.core | 32.1.107 | 32.1.1 | 10.11.0 |
-| com.google.firebase.messaging | 23.1.204 | 23.1.2 | 0.0.0 |
+| com.google.android.play | 2.0.303 | 2.0.3 |  |
+| com.google.firebase.adidsupport | 33.0.0 | 33.0.0 | 10.25.0 |
+| com.google.firebase.core | 33.0.0 | 33.0.0 | 10.25.0 |
+| com.google.firebase.messaging | 24.0.0 | 24.0.0 | 0.0.0 |
 | com.distriqt.playservices.Ads | 23.0.1 | 23.0.0 |  |
 | com.distriqt.playservices.AdsIdentifier | 18.0.105 | 18.0.1 |  |
 | com.distriqt.playservices.Analytics | 18.0.303 | 18.0.3 |  |
 | com.distriqt.playservices.AppInvite | 18.0.5 | 18.0.0 |  |
 | com.distriqt.playservices.AppSet | 16.1.205 | 16.0.2 |  |
-| com.distriqt.playservices.Auth | 20.5.3 | 20.5.0 |  |
-| com.distriqt.playservices.Base | 18.2.4 | 18.2.0 |  |
-| com.distriqt.playservices.CloudMessaging | 17.0.205 | 17.0.2 |  |
+| com.distriqt.playservices.Auth | 21.1.100 | 21.1.1 |  |
+| com.distriqt.playservices.Base | 18.4.0 | 18.4.0 |  |
+| com.distriqt.playservices.CloudMessaging | 17.2.0 | 17.2.0 |  |
 | com.distriqt.playservices.Cronet | 18.0.100 | 18.0.1 | 0.0.0 |
 | com.distriqt.playservices.Drive | 17.0.5 | 17.0.0 |  |
 | com.distriqt.playservices.Fitness | 21.1.3 | 21.1.0 |  |

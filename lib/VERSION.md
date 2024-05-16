@@ -6,7 +6,7 @@
 | com.google.firebase.adidsupport | 33.0.0 | 33.0.0 | 10.25.0 |
 | com.google.firebase.core | 33.0.0 | 33.0.0 | 10.25.0 |
 | com.google.firebase.messaging | 24.0.0 | 24.0.0 | 0.0.0 |
-| com.distriqt.playservices.Ads | 23.0.1 | 23.0.0 |  |
+| com.distriqt.playservices.Ads | 23.1.0 | 23.1.0 |  |
 | com.distriqt.playservices.AdsIdentifier | 18.0.105 | 18.0.1 |  |
 | com.distriqt.playservices.Analytics | 18.0.303 | 18.0.3 |  |
 | com.distriqt.playservices.AppInvite | 18.0.5 | 18.0.0 |  |

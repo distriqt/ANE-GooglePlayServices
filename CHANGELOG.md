@@ -1,3 +1,9 @@
+###### 2024.05.21 [v29.0.2]
+
+```
+feat(playservices-base): remove min sdk 24 requirement in preparation of AIR update
+```
+
 ###### 2024.05.16 [v29.0.1]
 
 ```

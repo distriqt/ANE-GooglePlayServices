@@ -12,7 +12,7 @@
 | com.distriqt.playservices.AppInvite | 18.0.5 | 18.0.0 |  |
 | com.distriqt.playservices.AppSet | 16.1.205 | 16.0.2 |  |
 | com.distriqt.playservices.Auth | 21.1.100 | 21.1.1 |  |
-| com.distriqt.playservices.Base | 18.4.0 | 18.4.0 |  |
+| com.distriqt.playservices.Base | 18.4.1 | 18.4.0 |  |
 | com.distriqt.playservices.CloudMessaging | 17.2.0 | 17.2.0 |  |
 | com.distriqt.playservices.Cronet | 18.0.100 | 18.0.1 | 0.0.0 |
 | com.distriqt.playservices.Drive | 17.0.5 | 17.0.0 |  |

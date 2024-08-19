@@ -18,6 +18,7 @@
 | com.distriqt.playservices.Drive | 17.0.5 | 17.0.0 |  |
 | com.distriqt.playservices.Fitness | 21.1.3 | 21.1.0 |  |
 | com.distriqt.playservices.Games | 23.1.3 | 23.1.0 |  |
+| com.distriqt.playservices.Gamesv2 | 20.1.2 | 20.1.2 | 0.0.0 |
 | com.distriqt.playservices.GCM | 17.0.5 | 17.0.0 |  |
 | com.distriqt.playservices.Identity | 18.0.105 | 18.0.1 |  |
 | com.distriqt.playservices.Licensing | 1.0.85 | 1.0.0 |  |

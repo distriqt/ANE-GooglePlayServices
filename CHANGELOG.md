@@ -1,3 +1,9 @@
+###### 2024.08.19 [v30.0.0]
+
+```
+feat(gamesv2): add playservices games-v2 dependency
+```
+
 ###### 2024.05.21 [v29.0.2]
 
 ```

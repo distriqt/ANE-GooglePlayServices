@@ -1,3 +1,17 @@
+###### 2024.09.19 [v30.2.0]
+
+```
+fix(fir-core): fix build issue that caused missing dependecnies (resolves https://github.com/distriqt/ANE-Firebase/issues/499)
+feat(adsidentifier): update play-services-adsidentifier v18.1.0
+feat(appset): update play-services-appset v16.1.0
+feat(auth): update play-services-auth v21.2.0
+feat(cloudmessaging): update play-services-cloud-messaging v17.3.0
+feat(cronet): update play-services-cronet v18.1.0
+feat(fitness): update play-services-fitness v21.2.0
+feat(games): update play-services-games v23.2.0
+feat(identity): update play-services-identity v18.1.0
+```
+
 ###### 2024.08.27 [v30.1.0]
 
 ```

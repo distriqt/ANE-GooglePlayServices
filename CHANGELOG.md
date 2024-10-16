@@ -1,3 +1,11 @@
+###### 2024.10.16 [v30.3.0]
+
+```
+feat(playservices-ads): update ads sdk to v23.4.0
+feat(playservices-base): update base sdk to v18.5.0
+feat(playservices-analytics): update analytics sdk to v18.1.0
+```
+
 ###### 2024.09.19 [v30.2.0]
 
 ```

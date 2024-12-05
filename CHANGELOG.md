@@ -1,3 +1,14 @@
+###### 2024.12.05 [v31.0.0]
+
+```
+Major update - move to new gradle build process
+
+In this update we have moved all the extensions to use the newer gradle dependencies process. 
+
+feat: move to gradle dependencies
+feat(fir-core,fir-messaging,fir-adidsupport): update firebase ios sdk v11.5.0
+```
+
 ###### 2024.10.16 [v30.3.0]
 
 ```

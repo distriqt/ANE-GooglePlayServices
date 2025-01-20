@@ -1,3 +1,9 @@
+###### 2025.01.20 [v31.0.1]
+
+```
+fix(fir-core): add additional ios frameworks that were causing conflicts from multiple extensions (https://github.com/airsdk/Adobe-Runtime-Support/issues/3644)
+```
+
 ###### 2024.12.05 [v31.0.0]
 
 ```

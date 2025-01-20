@@ -1,3 +1,9 @@
+###### 2025.01.20 [v31.0.2]
+
+```
+feat(fir-ondeviceconversion): new dependency for the Firebase On-Device Measurement library (https://github.com/distriqt/ANE-Firebase/issues/505)
+```
+
 ###### 2025.01.20 [v31.0.1]
 
 ```

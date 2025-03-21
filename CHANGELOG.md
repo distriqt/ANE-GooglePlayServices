@@ -1,3 +1,9 @@
+###### 2025.03.21 [v31.0.3]
+
+```
+fix(playservices-base): remove dependency causing incorrect addition of AD_ID permission
+```
+
 ###### 2025.01.20 [v31.0.2]
 
 ```

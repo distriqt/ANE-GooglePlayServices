@@ -1,3 +1,15 @@
+###### 2025.04.30 [v31.1.0]
+
+```
+feat: update gradle build - NOTE: requires using gradle version 8.9
+feat(ads): update admob sdk v24.2.0
+feat(ads-identifier): update ads identifier sdk v18.2.0
+feat(auth): update auth sdk v21.3.0
+feat(location): update location sdk v21.3.0
+feat(recaptcha): update recaptcha sdk v17.1.0
+feat(tagmanager): update tag manager sdk v18.3.0
+```
+
 ###### 2025.03.21 [v31.0.3]
 
 ```

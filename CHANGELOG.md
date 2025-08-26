@@ -1,3 +1,17 @@
+###### 2025.08.26 [v32.0.0]
+
+```
+feat(fir-adidsupport): update firebase sdk: android v34.1.0 ios v12.1.0
+feat(fir-core): update firebase core sdk: android v34.1.0 ios v12.1.0
+feat(fir-messaging): update firebase messaging sdk: android v25.0.0 ios v12.1.0
+feat(fir-ondeviceconversion): update firebase messaging sdk: android v34.1.0 ios v12.1.0
+feat(ads): update admob sdk v24.5.0
+feat(adsidentifier): rollback adsidentifier sdk v18.1.0 (resolves https://github.com/distriqt/ANE-Adverts-Mediation/issues/89)
+feat(auth): update auth sdk v21.4.0
+feat(gamesv2): update games v2 sdk v21.0.0
+feat(maps): update maps sdk v19.2.0
+```
+
 ###### 2025.04.30 [v31.1.0]
 
 ```

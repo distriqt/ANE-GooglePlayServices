@@ -1,3 +1,22 @@
+###### 2026.02.17 [v32.1.0]
+
+```
+Update Firebase dependencies to the latest versions (iOS SDK v12.9.0 and Android SDK BOM v34.9.0).
+Several other dependencies have also been updated to their latest versions, 
+including AdMob SDK v24.9.0, Ads Identifier SDK v19.3.0, Auth SDK v22.3.0, Base SDK v19.2.0, Cronet SDK v19.0.3, and Fitness SDK v22.1.0.
+
+### Updates
+
+feat(fir-core,fir-messaging,fir-adidsupport,fir-ondeviceconversion): update firebase ios sdk v12.9.0
+feat(fir-core,fir-messaging,fir-adidsupport,fir-ondeviceconversion): update firebase android sdk bom v34.9.0
+feat(ads): update admob sdk v24.9.0
+feat(adsidentifier): update sdk v19.3.0
+feat(auth): update sdk v22.3.0
+feat(base): update sdk v19.2.0
+feat(cronet): update sdk v19.0.3
+feat(fitness): update sdk v22.1.0
+```
+
 ###### 2025.09.24 [v32.0.1]
 
 ```

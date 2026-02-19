@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | com.google.android.play | 3.0.2 | 2.0.4 |  |
 | com.google.firebase.adidsupport | 35.1.0 | 34.1.0 | 12.9.0 |
-| com.google.firebase.core | 35.1.0 | 34.1.0 | 12.9.0 |
+| com.google.firebase.core | 35.1.1 | 34.1.0 | 12.9.0 |
 | com.google.firebase.messaging | 26.1.0 | 25.0.0 | 12.9.0 |
 | com.google.firebase.ondeviceconversion | 35.1.0 | 34.1.0 | 12.9.0 |
 | com.distriqt.playservices.Ads | 24.9.0 | 24.9.0 |  |

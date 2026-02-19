@@ -1,3 +1,9 @@
+###### 2026.02.19 [v32.1.1]
+
+```
+fix(fir-core): correct ios framework packaging (resolves https://github.com/distriqt/ANE-Firebase/issues/519) 
+```
+
 ###### 2026.02.17 [v32.1.0]
 
 ```

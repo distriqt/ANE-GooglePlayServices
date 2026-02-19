@@ -1,3 +1,9 @@
+###### 2026.02.20 [v32.1.2]
+
+```
+fix(fir-adidsupport): correct ios library name
+```
+
 ###### 2026.02.19 [v32.1.1]
 
 ```

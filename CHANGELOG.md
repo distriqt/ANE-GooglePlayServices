@@ -1,3 +1,9 @@
+###### 2026.02.25 [v32.1.3]
+
+```
+fix(base): correct manifest generation issue with airpackage with apm
+```
+
 ###### 2026.02.20 [v32.1.2]
 
 ```

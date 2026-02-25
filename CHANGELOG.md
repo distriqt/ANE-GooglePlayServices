@@ -1,3 +1,9 @@
+###### 2026.02.26 [v32.1.4]
+
+```
+fix(base): correct manifest generation issue with airpackage with apm (resolves https://github.com/airsdk/apm/issues/230)
+```
+
 ###### 2026.02.25 [v32.1.3]
 
 ```
